@@ -18,6 +18,3 @@ Java Developer | Computer Science Enthusiast | DSA Mentor
 🔗 [LinkedIn](https://www.linkedin.com/in/prince-raj-1a1801309/) | [GitHub](https://github.com/prince12raj)
 
 ---
-
-## 📁 Folder Structure
-
