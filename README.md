@@ -15,7 +15,7 @@ This repository is built to help students, developers, and enthusiasts understan
 **👤 Prince Raj**  
 Java Developer | Computer Science Enthusiast | DSA Mentor  
 📬 [Email Me](princerajd7@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/prince12raj)
+🔗 [LinkedIn](https://www.linkedin.com/in/prince-raj-1a1801309/) | [GitHub](https://github.com/prince12raj)
 
 ---
 
